@@ -1,0 +1,23 @@
+<div class="header-main wp-dark-mode-transparent">
+            <div class="container wp-dark-mode-transparent">
+                        <div class="site-branding has-image-text wp-dark-mode-transparent" itemscope="" itemtype="http://schema.org/Organization">  
+            <div class="site-logo wp-dark-mode-transparent">
+                <a href="https://webskill.com.ua/" class="custom-logo-link wp-dark-mode-transparent" rel="home" aria-current="page"><img fetchpriority="high" width="3695" height="3747" src="https://webskill.com.ua/wp-content/uploads/2022/09/cropped-ukraine.png" class="custom-logo wp-dark-mode-transparent" alt="WebSkill" decoding="async" srcset="https://webskill.com.ua/wp-content/uploads/2022/09/cropped-ukraine.png 3695w, https://webskill.com.ua/wp-content/uploads/2022/09/cropped-ukraine-296x300.png 296w, https://webskill.com.ua/wp-content/uploads/2022/09/cropped-ukraine-1010x1024.png 1010w, https://webskill.com.ua/wp-content/uploads/2022/09/cropped-ukraine-768x779.png 768w, https://webskill.com.ua/wp-content/uploads/2022/09/cropped-ukraine-1515x1536.png 1515w, https://webskill.com.ua/wp-content/uploads/2022/09/cropped-ukraine-2020x2048.png 2020w" sizes="(max-width: 3695px) 100vw, 3695px"></a>            </div>
+
+            <div class="site-title-wrap wp-dark-mode-transparent">                    <h1 class="site-title wp-dark-mode-transparent" itemprop="name"><a href="https://webskill.com.ua/" rel="home" itemprop="url" class="wp-dark-mode-transparent">WebSkill</a></h1>
+                                        <p class="site-description wp-dark-mode-transparent" itemprop="description">Школа програмування</p>
+                </div>        </div>    
+                            <nav id="site-navigation" class="main-navigation wp-dark-mode-transparent" role="navigation" itemscope="" itemtype="http://schema.org/SiteNavigationElement">
+            <button class="toggle-btn">
+                <span class="toggle-bar wp-dark-mode-transparent"></span>
+                <span class="toggle-bar wp-dark-mode-transparent"></span>
+                <span class="toggle-bar wp-dark-mode-transparent"></span>
+            </button>
+    		<div class="menu-%d0%b3%d0%be%d0%bb%d0%be%d0%b2%d0%bd%d0%b5-%d0%bc%d0%b5%d0%bd%d1%8e-container wp-dark-mode-transparent"><ul id="primary-menu" class="nav-menu wp-dark-mode-transparent"><li id="menu-item-58" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-47 current_page_item menu-item-58 wp-dark-mode-transparent"><a href="https://webskill.com.ua/" aria-current="page" class="wp-dark-mode-transparent">Головна</a></li>
+<li id="menu-item-59" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-59 wp-dark-mode-transparent"><a href="https://webskill.com.ua/courses/" class="wp-dark-mode-transparent">Курси</a></li>
+<li id="menu-item-60" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-60 wp-dark-mode-transparent"><a href="https://webskill.com.ua/parents/" class="wp-dark-mode-transparent">Для батьків</a></li>
+<li id="menu-item-61" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-61 wp-dark-mode-transparent"><a href="https://webskill.com.ua/about-us/" class="wp-dark-mode-transparent">Про нас</a></li>
+<li id="menu-item-62" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-62 wp-dark-mode-transparent"><a href="https://webskill.com.ua/contacts/" class="wp-dark-mode-transparent">Контакти</a></li>
+</ul></div>    	</nav><!-- #site-navigation -->
+                </div>
+        </div>
